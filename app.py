@@ -6,7 +6,7 @@ from Crypto.Util.Padding import pad
 from protobuf_decoder.protobuf_decoder import Parser
 import data_pb2
 
-# ====== CẤU HÌNH TÀI KHOẢN INFO ======
+# ====== CẤU HÌNH TÀI KHOẢN INFO =====
 INFO_ACCOUNT = {
     "uid": "7905431498",
     "password": "E1C3A316E3A3BEFA1DC8"
